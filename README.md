@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eido Inoue. My previous family name was "havill", and I still use that as an ID online.
+- 👋 Hi, I’m Eido Inoue. My family name was "havill" until 2010, but I still use that as an ID online as it's more unique than "inoue".
 - 👀 I’m interested in free and open source software, as well as 3D model based art and games.
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on e-commerce based software and marketing technology.
